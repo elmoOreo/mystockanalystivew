@@ -21,7 +21,7 @@ A Flutter application designed to visualize the output of an AI-powered stock an
 
 | Analyst Runs View                               | Agent Logs View                                 |
 | ----------------------------------------------- | ----------------------------------------------- |
-| !Analyst Runs | !Agent Logs |
+| ![Analyst Runs](lib/images/analyst_runs.png) | ![Agent Logs](lib/images/agent_logs.png) |
 
 ## Project Structure
 
