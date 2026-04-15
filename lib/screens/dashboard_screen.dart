@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../views/agent_logs_view.dart';
-import '../views/analyst_runs_view.dart';
+import '../../views/agent_logs_view.dart';
+import '../../views/analyst_runs_view.dart';
 
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});

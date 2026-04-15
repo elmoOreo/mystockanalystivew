@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import '../models/analyst_run.dart';
-import '../models/report_item.dart';
-import '../services/api_service.dart';
+import '../../models/analyst_run.dart';
+import '../../models/report_item.dart';
+import '../../services/api_service.dart';
 
 class AnalystRunsView extends StatefulWidget {
   const AnalystRunsView({super.key, required this.onRunSelected});

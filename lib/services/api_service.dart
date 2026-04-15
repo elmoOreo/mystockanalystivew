@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import '../config/app_config.dart';
-import '../models/agent_log.dart';
-import '../models/analyst_run.dart';
+import '../../config/app_config.dart';
+import '../../models/agent_log.dart';
+import '../../models/analyst_run.dart';
 
 class ApiService {
   Future<List<AnalystRun>> fetchAnalystRuns() async {

@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import '../models/agent_log.dart';
-import '../services/api_service.dart';
+import '../../models/agent_log.dart';
+import '../../services/api_service.dart';
 
 class AgentLogsView extends StatefulWidget {
   const AgentLogsView({super.key, this.threadId});
